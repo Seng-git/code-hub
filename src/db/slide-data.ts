@@ -200,23 +200,23 @@ export const advanced: IData[] = [
 
 export const populars: { image: ImageSourcePropType; lesson: IData }[] = [
   {
-    image: require('../assets/popular-image1.png'),
+    image: require('../assets/bai1.png'),
     lesson: basic[0],
   },
   {
-    image: require('../assets/popular-image2.png'),
+    image: require('../assets/bai2.png'),
     lesson: basic[1],
   },
   {
-    image: require('../assets/popular-image3.png'),
+    image: require('../assets/bai6.png'),
     lesson: intermediate[0],
   },
   {
-    image: require('../assets/popular-image4.png'),
+    image: require('../assets/bai7.png'),
     lesson: intermediate[1],
   },
   {
-    image: require('../assets/popular-image5.png'),
+    image: require('../assets/proj2.png'),
     lesson: advanced[1],
   },
 ];
@@ -224,17 +224,17 @@ export const populars: { image: ImageSourcePropType; lesson: IData }[] = [
 export const headerSlideData: MemberImageProps[] = [
   {
     name: 'slideimg',
-    image: require('../assets/slide1.png'),
+    image: require('../assets/bai1.png'),
     lesson: basic[0],
   },
   {
     name: 'slideimg',
-    image: require('../assets/slide1.png'),
+    image: require('../assets/bai6.png'),
     lesson: intermediate[0],
   },
   {
     name: 'slideimg',
-    image: require('../assets/slide1.png'),
+    image: require('../assets/proj1.png'),
     lesson: advanced[0],
   },
 ];
