@@ -11,13 +11,18 @@
 - **Video Lessons by Level**: Scratch lessons are divided into various levels, making it easy for users to follow a structured learning path based on their skills and progress.
 - **Curated Content**: All lessons are carefully selected, developed, and reviewed before being uploaded to ensure quality and relevance.
 
-<img src="./demo/demo1.png">
+<img src="./demo/img1.jpg">
+<img src="./demo/img2.jpg">
+<img src="./demo/img3.jpg">
+<img src="./demo/img4.jpg">
 
 - **Multiple Choice Exercises**: After completing each lesson, users can take multiple choice quizzes to test their understanding of the material.
 
 - **Practice Exercises**: In addition to the lessons, the app offers a variety of interesting practice exercises to help users reinforce their knowledge and improve their programming skills.
 
-<img src="./demo/demo2.png">
+<img src="./demo/img5.jpg">
+<img src="./demo/img6.jpg">
+<img src="./demo/img7.jpg">
 
 ## Technology Stack
 
