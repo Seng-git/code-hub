@@ -20,16 +20,20 @@ interface ITabIcon {
 const TabIcon = ({ focused, name, title }: ITabIcon) => {
   const colors = UseTokenColor();
   return (
-    <VStack alignItems={"center"}>
+    <VStack alignItems={"center"}  justifyContent={"center"}>
       <Ionicons
         name={name}
         size={20}
         color={focused ? colors.primary600 : colors.warmGray600}
+        
       />
       <Text
         fontSize={10}
         fontWeight={"$medium"}
         color={focused ? colors.primary600 : colors.warmGray600}
+        textAlign="center"
+        width={50}
+        
       >
         {title}
       </Text>
@@ -49,21 +53,21 @@ export const TabData: ITabData[] = [
   {
     id: 1,
     tabName: "Home",
-    title: "Trang chủ",
+    title: "Home",
     iconName: "home",
     component: Home,
   },
   {
     id: 2,
     tabName: "Quizz",
-    title: "Trắc nghiệm",
+    title: "Quizz",
     iconName: "apps",
     component: Quizz,
   },
   {
     id: 3,
     tabName: "Practice",
-    title: "Tự luận",
+    title: "Practice",
     iconName: "information-circle-sharp",
     component: Practice,
   },
