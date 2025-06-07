@@ -1,8 +1,8 @@
-<img src="https://github.com/tuanna-kite/ScratchLab/blob/main/demo/scratch-logo.png?raw=true" width="150" height="150">
+<img src="./code-hub-logo.png" width="150" height="150">
 
-# **ScratchLab Application**
+# **CodeHub Application**
 
-**ScratchLab** is an educational app designed to help children begin their journey into programming through Scratch. The app provides high-quality, engaging lessons aimed at introducing young learners to fundamental programming concepts in a fun and interactive way.
+**CodeHub** is an educational app designed to help children begin their journey into programming through Scratch. The app provides high-quality, engaging lessons aimed at introducing young learners to fundamental programming concepts in a fun and interactive way.
 
 [DEMO](https://drive.google.com/file/d/1T5kLmqu0tPwgoUjSwRsmEfBW2VbPP_LQ/view?usp=sharing)
 
